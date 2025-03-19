@@ -1,0 +1,2 @@
+# astrbot_plugin_pojiabaohu
+astrbot_plugin_pojiabaohu
