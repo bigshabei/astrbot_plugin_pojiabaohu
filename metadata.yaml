@@ -1,0 +1,11 @@
+name: astrbot_plugin_pojiabaohu
+version: 1.1.0
+description: 简单过滤《破甲指令》，提供开关指令控制
+author: 大沙北
+commands:
+  - name: 开启破甲保护
+    description: 启用破甲保护功能
+  - name: 关闭破甲保护
+    description: 禁用破甲保护功能
+dependencies:
+  - astrbot
